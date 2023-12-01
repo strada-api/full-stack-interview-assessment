@@ -2,6 +2,7 @@ import { Button } from "@/components/ui/button"
 import { Textarea } from "@/components/ui/textarea"
 import destinationExample from "@/data/example-destination"
 import sourceExample from "@/data/example-source"
+import { ListXIcon } from 'lucide-react';
 
 
 export default function Home() {
